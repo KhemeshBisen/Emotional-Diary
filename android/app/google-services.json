@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "263796362022",
+    "project_id": "emotional-dairy-b3cc0",
+    "storage_bucket": "emotional-dairy-b3cc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263796362022:android:e2145ffc9eca3f2fc14fe7",
+        "android_client_info": {
+          "package_name": "com.example.emotional_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263796362022-sq2ku443t2f96ff06t0ii4cfc4qav4gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emotional_dairy",
+            "certificate_hash": "4c7332fd7d5533901f1afc7995f6c76fa429a93d"
+          }
+        },
+        {
+          "client_id": "263796362022-qp9kqsbko6sdhg999bmte7mdp7b17ndq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtvBOHataIcbdB4xLLavg1dMVVFfVL4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263796362022-qp9kqsbko6sdhg999bmte7mdp7b17ndq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "263796362022-6nn80vbqpjfa7kf28s0osupnrq87cof9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emotionalDairy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
